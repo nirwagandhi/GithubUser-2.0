@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GitHubUser2</string>
+    <string name="find_username">Find Username</string>
+    <string name="name">Name</string>
+    <string name="username">username</string>
+    <string name="_0">0</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="company">Company</string>
+    <string name="companyUser">companyUser</string>
+    <string name="nameuser">nameUser</string>
+    <string name="ImageDetailUser">imageDetailUser</string>
+    <string name="location">Location</string>
+    <string name="submission_1">Submission 1</string>
+    <string name="username_">Username :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="follower">Follower</string>
+    <string name="id_user">id user</string>
+    <string name="submission_2">Submission 2</string>
+    <string name="aplikasi_github_user">Aplikasi GitHub User</string>
+    <string name="favorite_button">Favorite_button</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="user_not_found">User Not Found</string>
+
+</resources>
